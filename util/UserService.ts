@@ -4,7 +4,7 @@ const userService = {
   createUser: (req: Request, res: Response) => {
     const { username } = req.body;
     if (username) {
-      res.status(200).json({
+      res.status(201).json({
         message: `Hi ${username}, your request is successful.`
       });
     } else {
