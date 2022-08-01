@@ -2,7 +2,7 @@
 
 Sample server proof of concept (POC) that handles basic HTTP request.
 
-The POC is hosted on [Heroku](https://my-server-snoidetx-poc.herokuapp.com/).
+The POC is hosted on Heroku at https://my-server-snoidetx-poc.herokuapp.com.
 
 ## Usage
 
