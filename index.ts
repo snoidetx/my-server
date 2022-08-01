@@ -4,7 +4,7 @@ import bodyParser from 'body-parser';
 import userService from './util/UserService';
 
 const server: Express = express();
-const port = 1202;
+const port = process.env.PORT || 1202;
 
 server.use(bodyParser.json());
 
