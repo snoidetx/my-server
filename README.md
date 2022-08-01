@@ -1,6 +1,6 @@
 # my-server
 
-Sample server proof of concept (POC) that handles basic HTTP request.
+Sample server proof of concept (POC) that handles basic HTTP request. The source code is written in TypeScript with Express framework.
 
 The POC is hosted on Heroku at https://my-server-snoidetx-poc.herokuapp.com.
 
